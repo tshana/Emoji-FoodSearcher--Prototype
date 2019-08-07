@@ -1,0 +1,22 @@
+[
+    {
+        "emoji": "🍔",
+        "emojiText": "Burgers",
+        "id": 0
+    },
+    {
+        "emoji": "🌮",
+        "emojiText": "Tacos",
+        "id": 1
+    },
+    {
+        "emoji": "🥗",
+        "emojiText": "Vegetarian",
+        "id": 2
+    },
+    {
+        "emoji": "🍷",
+        "emojiText": "Wine",
+        "id": 3
+    }
+]
